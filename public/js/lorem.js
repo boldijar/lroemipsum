@@ -85,7 +85,10 @@ WORDS_VADIM = [
 WORDS_RO = [
   'niste pateu', 'o shaorma cu de toate va rog','la pachet','m-am facut manga','palinca aia blana','cea mai frumoasa femeie e aia de tace',
   'cand o zbura porcul','visinata','bere la pet','as bea o plasticata','ai bani, mananci, n-ai bani, nu ti-e foame','si-a murit dumitru',
-  'as zice un banc cu bula','fratele Nicolae Guta','si cand mor am valoare'
+  'as zice un banc cu bula','fratele Nicolae Guta','frec putin menta', 'pana am dat la rate','rad pe sub mustata','mi-am pierdut ochelarii de soare','merem la costinesti la manele',
+  'hai in vama frate','am spart tot salaru la loft','de luni ma pun sa invat','m-as apuca de sala','mica mica dar ridica','hai plimba ursu','dupa ce ma uit la Dan Diaconescu',
+  'nu am rabdare','am nevoie de hartie igienica','m-am saturat de camin','imi vand un rinichi si ma mut la chirie','vai de scump e','nu mai am bani','tigari si bere',
+  'mi-am baut salariul','spargem o samanta','boss cf?','as manca o shaorma','sunt constipat'
 ];
 WORDS_NICUSOR = [
   'cacat','pisat','unt','mazga','coptura galbena','diarie','mandarie','aoaleu','sicutza','salam','mandarie de mandarie','apa plata','morena','n-ai un leu?'
